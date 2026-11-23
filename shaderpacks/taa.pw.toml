@@ -1,0 +1,13 @@
+name = "TAA Project"
+filename = "TAA Project.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aE6ouBYi/versions/BnzuDLr1/TAA%20Project.zip"
+hash-format = "sha512"
+hash = "73984eb1dfde88e44a20df3b75cbab3d6f68b8a9e8978759eb5fb9fc9f2381b010725d8a661b1d31923c267ab2d562bf340416d376e2b10d6f69bc5a241fd8c1"
+
+[update]
+[update.modrinth]
+mod-id = "aE6ouBYi"
+version = "BnzuDLr1"

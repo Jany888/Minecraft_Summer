@@ -1,0 +1,13 @@
+name = "Anti Aliasing (TAA, FXAA)"
+filename = "Anti Aliasing (TAA, FXAA) - v1.1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HPkbgOtW/versions/a5TFq92A/Anti%20Aliasing%20%28TAA%2C%20FXAA%29%20-%20v1.1.0.zip"
+hash-format = "sha512"
+hash = "d2481ec7dfa599c37c131c5ae60c2d5f4328636028dd56b1b34105ab168a6a47cee63bd592ecd602d1516039031df8e89ee56869217dc0cb9f42d0c76d8599d0"
+
+[update]
+[update.modrinth]
+mod-id = "HPkbgOtW"
+version = "a5TFq92A"

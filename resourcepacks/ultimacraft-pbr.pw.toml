@@ -1,0 +1,13 @@
+name = "UltimaCraft PBR"
+filename = "ultimacraft-pbr-v-1-9.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/71ctNY6u/versions/lXPZqupu/ultimacraft-pbr-v-1-9.zip"
+hash-format = "sha512"
+hash = "5525e49b2b79c5adf4f6559d923dbcedcc2750606945307766bef2e419409d882dc0935a3d64883725d8d194622b1280b40c5183d437bc3c5b9dd31f0940b54e"
+
+[update]
+[update.modrinth]
+mod-id = "71ctNY6u"
+version = "lXPZqupu"

@@ -1,0 +1,13 @@
+name = "Parallax PBR"
+filename = "Parallax PBR 64x v2.5.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vBH38M7b/versions/Kl4oqiBZ/Parallax%20PBR%2064x%20v2.5.zip"
+hash-format = "sha512"
+hash = "5e38041278d90993473539307783beb5cc12c81cfc6a473a0ce6d7dfae2b3cec9fd73ceb50b7e256bfdb7b07a8ff18d3f56956af5dda7e08a8a944e59f42cc02"
+
+[update]
+[update.modrinth]
+mod-id = "vBH38M7b"
+version = "Kl4oqiBZ"

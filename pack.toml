@@ -1,0 +1,13 @@
+name = "Minecraft Summer"
+author = "Yany"
+version = "0.7.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a4b2a8c489c2af135a97ccf0733951d757e6ffd93910eafc8cabdd35034940fe"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.267"

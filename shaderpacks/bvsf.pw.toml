@@ -1,0 +1,13 @@
+name = "BVSF"
+filename = "BVSF - Best Vanilla Shader 1.9.4 (FAST).zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rYFfh55l/versions/gTLUQidN/BVSF%20-%20Best%20Vanilla%20Shader%201.9.4%20%28FAST%29.zip"
+hash-format = "sha512"
+hash = "7425d2bd43b29a10a26fe0580cc9000cdc8e070a6c82cd076a4c57a41b433b8dd8a972a12c699b317b722cc720c8254364a8135d75252f06e59edda1b2945a6d"
+
+[update]
+[update.modrinth]
+mod-id = "rYFfh55l"
+version = "gTLUQidN"

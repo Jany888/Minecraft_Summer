@@ -1,0 +1,13 @@
+name = "Create Specular"
+filename = "Create Specular.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JqZXnwY4/versions/UX8UQjKi/Create%20Specular.zip"
+hash-format = "sha512"
+hash = "fdedf821600ea63ef5d95abd2dd0c3d69ddafdd374ce5e55865ceaaffc23144a4c10315fda69571dd48624ff90e0b9de3f30b6dc7a1900c498fd7364aa18a2d4"
+
+[update]
+[update.modrinth]
+mod-id = "JqZXnwY4"
+version = "UX8UQjKi"

@@ -1,0 +1,13 @@
+name = "BDS - Better Default Shaders"
+filename = "BDS-1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CqoL8Aty/versions/jpAr4qTr/BDS-1.0.zip"
+hash-format = "sha512"
+hash = "30ae3e12fdf402979f1eadc3314be8745a68fcaf85f8c2725ad298aebef0ecb19c1c6b7b0f58f4424ad6f584d5d84302cd3a8023b19a14df1e81804c89081cfe"
+
+[update]
+[update.modrinth]
+mod-id = "CqoL8Aty"
+version = "jpAr4qTr"

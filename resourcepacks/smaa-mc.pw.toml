@@ -1,0 +1,13 @@
+name = "Grindstone"
+filename = "SMAA-MC v1.3.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uKUzCNsg/versions/hnkVNMqt/SMAA-MC%20v1.3.0.zip"
+hash-format = "sha512"
+hash = "07cc65cf37d6bc2df75be828f0158007fa3672149d2517ccf1db11bd41617019d46a1828d0dfe4efc4c0e4a9689d32a9843ce361f152ab1d8c4045f961a574cb"
+
+[update]
+[update.modrinth]
+mod-id = "uKUzCNsg"
+version = "hnkVNMqt"
